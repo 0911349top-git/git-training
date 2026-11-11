@@ -1,3 +1,3 @@
 print("Hello")
-name = "Viktor Dolgikh"
+name = input("Введите имя : ")
 print("Hello", name)
